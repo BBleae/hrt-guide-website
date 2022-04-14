@@ -1,4 +1,4 @@
-![Vite Logo](https://hrt.guide/logo.png)
+![HRTGuide Logo](https://hrt.guide/logo.png)
 
 # HRT Guide
 
