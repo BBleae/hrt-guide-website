@@ -1,5 +1,5 @@
 <template>
-  <img alt="HRTGuide logo" src="./assets/logo.png" />
+  <img alt="HRTGuide logo" src="./assets/logo.png" width="128" height="128"/>
   <HelloWorld msg="HRT Guide" />
 </template>
 
