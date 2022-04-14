@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <img alt="HRTGuide logo" src="./assets/logo.png" />
+  <HelloWorld msg="HRT Guide" />
 </template>
 
 <script setup>
