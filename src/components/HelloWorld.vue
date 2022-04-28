@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA" target="_blank">
+    <a href="https://docs.hrt.guide/" target="_blank">
       Shizu's 跨性别女性HRT资料
     </a>
   </p>
